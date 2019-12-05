@@ -1948,7 +1948,7 @@ input, select, textarea {
 	}
 
 	.box.post-excerpt h3, .box.post-excerpt p {
-		margin-left: 7em;
+		margin-left: 0;
 	}
 
 /* Wrapper */
@@ -2884,4 +2884,4 @@ input, select, textarea {
 							margin-top: 0;
 						}
 
-	}
+					}}
